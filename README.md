@@ -20,4 +20,5 @@ Non-primitive (reference) types store a reference in the Stack, and the actual d
 4. Code Generation
 
 JS Grammer flow diagram has given below
+
 ![Screenshot](./images/js-grammer-flow.png)
